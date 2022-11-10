@@ -66,17 +66,7 @@ Bellow are the environmental variables that needs to be set in a `.env` file. Th
 
 **NB:** The given values are used in developement and testing but not in production. 
 ```
-PORT=3000
-POSTGRES_HOST=localhost
-POSTGRES_PORT=5432
-POSTGRES_DB=store
-POSTGRES_DB_test=store_test
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=1662001
-ENV=test
-BCRYPT_PASSWWORD=speak-friend-and-enter
-SALT_ROUNDS=10
-TOKEN_SECRET=yourToken
+
 ```
 
 ## Start App
